@@ -14,7 +14,7 @@ $discordimg = "assets/img/telegram.png";
 
 // META TAG SECTION
 // Name of your site.
-$Title ="E7's Store";
+$Title ="E9's Store";
 
 // Site's logo.
 $favicon ="https://ukdata.cc/img/fullz-cvv-dumps-uk-data-900-1.webp";
@@ -23,7 +23,7 @@ $favicon ="https://ukdata.cc/img/fullz-cvv-dumps-uk-data-900-1.webp";
 $Url = "Google.com";
 
 // Limit of 150 words. Summarize your page's contents. Such as a description of your site.
-$Description = "E7's Store";
+$Description = "E9's Store";
 
 // NAVBAR Section
 // If you want none just don't put anything here
@@ -42,7 +42,7 @@ $navbar = [
 
 // Site Content
 // This is the "T" of your site. Such as a little introduction.
-$STitle = "E7's Store";
+$STitle = "E9's Store";
 
 // This is the Sub Title. Its a little slogan type thing under your title.
 $SDesc = "The best quality accounts at the best price!";
@@ -56,7 +56,7 @@ $btns = [
     ],
     [
         "Txt" => "Snapchat",
-        "link" => "https://www.snapchat.com/add/lu.fraud",
+        "link" => "https://www.snapchat.com/add/certi_f9",
     ],
     [
         "Txt" => "Telegram Chat",
