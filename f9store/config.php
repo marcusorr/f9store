@@ -114,9 +114,9 @@ $PDesc = "Get some juicy products and services off us!";
 // First is the Product Name. Second is the Product Description. Third is the Product ID can be found int he URL. Fourth is your product Image.
 $Products = [
     [
-        "Name" => "Depop Account x 2",
+        "Name" => "ur retarded",
         "Desc" => "Depop logins with random ammounts of followers.",
-        "ID" => "5f79a87b9df0d",
+        "ID" => "5f777b0c12f26",
         "Image" => "https://cdn.sellix.io/static/images/products/ced9598f3928b9ccfa21829171f05cb08dac5e268aee66b887c1d3687650b5c6.jpeg",
     ],
    
